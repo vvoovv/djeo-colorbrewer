@@ -1,0 +1,23 @@
+{
+	"name": "djeo-colorbrewer",
+	"author": "Vladimir Elistratov",
+	"description": "A wrapper of color schemes from http://colorbrewer2.org for the djeo library",
+	"licenses": [
+		{
+			"type": "Apache v2.0",
+			"url": "http://www.apache.org/licenses/LICENSE-2.0"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vvoovv/djeo-colorbrewer"
+	},
+	"bugs": "https://github.com/vvoovv/djeo-colorbrewer/issues",
+	"dependencies": {
+		"djeo": "0.1.0"
+	},
+	"keywords": ["djeo", "geo"],
+	"homepage": "http://djeo.org",
+	"main": "./Map",
+	"icon": "http://djeo.github.com/djeo25.png"
+}
