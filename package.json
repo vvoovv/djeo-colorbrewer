@@ -14,10 +14,10 @@
 	},
 	"bugs": "https://github.com/vvoovv/djeo-colorbrewer/issues",
 	"dependencies": {
-		"djeo": "0.1.0"
+		"djeo": "current"
 	},
 	"keywords": ["djeo", "geo"],
 	"homepage": "http://djeo.org",
-	"main": "./Map",
+	"main": "./main",
 	"icon": "http://djeo.github.com/djeo25.png"
 }
